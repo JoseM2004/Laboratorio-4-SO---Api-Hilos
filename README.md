@@ -167,5 +167,5 @@ Toda la implementación fue revisada, comprendida y verificada manualmente por n
 
 ---
 
-## Analisia Notebook
+## Analisis Notebook
 [Notebook Google Colab analisis.ipynb](Programas/analisis.ipynb)
