@@ -164,3 +164,8 @@ Toda la implementación fue revisada, comprendida y verificada manualmente por n
 6. **Evitar mutex dentro del bucle es clave para el rendimiento**: la estrategia de sumas parciales locales elimina la contención de mutex en el camino crítico, que de otro modo sería el cuello de botella principal en la versión paralela.
 
 7. **La Ley de Amdahl limita el speedup teórico**: incluso con infinitos hilos, la fracción serial del programa (creación de hilos, agregación de resultados, I/O) pone un techo al speedup máximo alcanzable. En este experimento ese techo se hace evidente: pasar de 8 a 16 hilos no solo no mejora, sino que reduce el speedup de 3.89 a 3.59.
+
+---
+
+## Analisia Notebook
+[Notebook Google Colab analisis.ipynb](Programas/analisis.ipynb)
