@@ -1,6 +1,8 @@
 # Práctica No. 4 — API de Hilos (Pthreads)
 **Laboratorio de Sistemas Operativos · Ingeniería de Sistemas · Universidad de Antioquia**
 
+# [Enlace al video de sustentación](https://www.youtube.com/watch?v=kZUEvtJVhyc) 
+
 ---
 
 ## Integrantes
@@ -132,7 +134,7 @@ F(10)=55  F(11)=89  F(12)=144  F(33)=233  F(14)=377
 
 ## Video
 
-> 🎥 [Enlace al video de sustentación (10 min)](https://youtu.be/XXXXXXXXXXXXX) *(reemplazar con el enlace real)*
+>  [Enlace al video de sustentación](https://www.youtube.com/watch?v=kZUEvtJVhyc) 
 
 ---
 
